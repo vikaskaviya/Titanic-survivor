@@ -19,5 +19,8 @@ From a sample of the RMS Titanic data, we can see the various features present f
 - Fare: Fare paid by the passenger
 - Cabin Cabin number of the passenger (Some entries contain NaN)
 - Embarked: Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
-Since we're interested in the outcome of survival for each passenger or crew member, we can remove the Survived feature from this dataset and store it as its own separate variable outcomes. We will use these outcomes as our prediction targets.
+
+
+
+
 
